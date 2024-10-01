@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+.header, .sectionOne, .sectionThree, .footer {
+    background-color: blue;
+}
+
+.showcase, .sectionTwo, .contactForm {
+    background-color: green;
+}
